@@ -11,5 +11,5 @@
 
 ## Screenshots
 
-![Tic tac toe](https://github.com/mredulorfiaz/Python-Snake-Game/blob/master/screenshots/pygame1.png)
-![Tic tac toe_2](https://github.com/mredulorfiaz/Python-Snake-Game/blob/master/screenshots/pygame2.png)
+![Tic tac toe](https://github.com/mredulorfiaz/Python-TicTacToe-Game/blob/main/pics/tictactoe1.pngg)
+![Tic tac toe_2](https://github.com/mredulorfiaz/Python-TicTacToe-Game/blob/main/pics/tictactoe2.png)
